@@ -1,4 +1,4 @@
-body{ 
+body{ display: flex;
       flex-direction: column;
 }
 main{flex: auto;
@@ -7,4 +7,5 @@ aside{
       flex:1;
 }
 article{
-      flex:3;}
+      flex:3;
+}
