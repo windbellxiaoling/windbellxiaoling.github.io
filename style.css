@@ -1,9 +1,10 @@
-body
-     {/* display: flex; */
-      flex-direction: column;}
-main {/* display: flex; */
-        flex: auto;}
-        aside{/* display: flex; */
-      flex:1;}
-article{/* display: flex; */
+body{ 
+      flex-direction: column;
+}
+main{flex: auto;
+}
+aside{
+      flex:1;
+}
+article{
       flex:3;}
