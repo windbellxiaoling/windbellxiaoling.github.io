@@ -1,4 +1,4 @@
-body{ display: flex;
+#header{ background-color:pink;
       flex-direction: column;
 }
 main{flex: auto;
