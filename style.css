@@ -2,7 +2,7 @@ header{background-color：green;
 }
 main{flex: auto;
 }
-aside{
+aside{background-color：red;
       flex:1;
 }
 article{
