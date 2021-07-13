@@ -1,30 +1,3 @@
-<!DOCTYPE html>
-  <html lang="zh-CN">
-    <head>
-      <meta charset="utf-8">
-      <title>Opera Cat</title>
-      <link href="https://www.adalab.cn/admission.css" rel="stylesheet">
-        <link href="style.css" rel="stylesheet">
-    </head>
-    <body>
-      <header><img src="https://p5.ssl.qhimgs1.com/sdr/400__/t0124afa21769311cef.jpg" alt="adalab">
-      </header>
-      <main>
-        <aside>
-          <ul>
-            <li>
-<a href="https://windbellxiaoling.github.io/index.html">指向index.html</a></li>
-        </aside>
-        <article>
-    <h1>京剧猫第四季脚踏实地预告</h1>
-          <p>各位猫奴们京剧猫步宗之旅下部暑期即将播出!</p>
-          <p>粉丝们可以在优酷，小破站免费观看!</p>
-           <p>这次又新增了许多小白糖呢</p>
-    <h2>播放平台</h2> 
-    <h3>周边购买渠道</h3>
-        </article>
-        </main>
-      <footer>by<a href="https://www.zhihu.com/people/nuo-wei-de-sen-lin00" target="_blank">CGTN</a>for<a href="https://www.adalab.cn" target="_blank">Adalab</a>
-        </footer>
-    </body>
-  </html>
+a {
+  color: green;
+}
